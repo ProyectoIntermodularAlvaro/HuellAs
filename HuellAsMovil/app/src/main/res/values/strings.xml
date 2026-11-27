@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HuellAs</string>
+    <string name="lema">Dueños, refugios y veterinarios</string>
+
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="ayuda_password">Mínimo 8 caracteres</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="especie">Especie</string>
+    <string name="raza">Raza (opcional)</string>
+    <string name="edad">Edad</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="ir_a_registro">¿No tienes cuenta? Regístrate</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="volver">Volver</string>
+
+    <string name="mis_mascotas">Mis mascotas</string>
+    <string name="sesion_de">Sesión de %1$s</string>
+    <string name="sin_mascotas">Todavía no has registrado ninguna mascota</string>
+    <string name="registrar_mascota">Registrar mascota</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="anio">año</string>
+    <string name="anios">años</string>
+</resources>

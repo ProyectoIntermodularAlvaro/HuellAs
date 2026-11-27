@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- El aspecto lo define Compose; aquí solo se evita la barra de título del sistema. -->
+    <style name="Theme.HuellAs" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

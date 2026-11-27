@@ -1,8 +1,0 @@
-target/
-build/
-*.class
-datos/
-*.dat
-nbproject/private/
-.idea/
-*.iml
